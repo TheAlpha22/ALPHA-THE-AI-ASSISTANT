@@ -23,7 +23,7 @@ It can do a lot of cool things, some of them being:
 - Tells top headlines (via Times of India)
 - Plays music
 - Send email (with subject and content)
-- Calculate any mathematical expression (example: Jarvis, calculate x + 135 - 234 = 345)
+- Calculate any mathematical expression (example: Alpha, calculate x + 135 - 234 = 345)
 - Answer any generic question (via Wolframalpha)
 - Take important note in notepad
 - Tells a random joke
