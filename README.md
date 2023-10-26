@@ -48,10 +48,10 @@ To run this program you will require a bunch of API keys. Register your API key 
     email = "<your_email>"
     email_password = "<your_email_password>"
     wolframalpha_id = "<your_wolframalpha_id>"
-- Copy the config.py file in Jarvis>config folder
+- Copy the config.py file in Alpha>config folder
 - Make a new python environment
     If you are using anaconda just type ```conda create -n jarvis python==3.8.5 ``` in anaconda prompt
-- To activate the environment ``` conda activate jarvis ```
+- To activate the environment ``` conda activate alpha ```
 - Navigate to the directory of your project
 - Install all the requirements by just hitting ``` pip install -r requirements.txt ```
 - Install PyAudio from wheel file by following instructions given [here](https://stackoverflow.com/a/55630212)
@@ -62,13 +62,13 @@ To run this program you will require a bunch of API keys. Register your API key 
 
 
     ├── driver
-    ├── Jarvis              # Main folder for features 
+    ├── Alpha              # Main folder for features 
     │   ├── config          # Contains all secret API Keys
-    │   ├── features        # All functionalities of JARVIS 
+    │   ├── features        # All functionalities of Alpha 
     │   └── utils           # GUI images
     ├── __init__.py         # Definition of feature's functions
     ├── gui.ui              # GUI file (in .ui format)
-    ├── main.py             # main driver program of Jarvis
+    ├── main.py             # main driver program of Alpha
     ├── requirements.txt    # all dependencies of the program
 
 - The code structure if pretty simple. The code is completely modularized and is highly customizable
