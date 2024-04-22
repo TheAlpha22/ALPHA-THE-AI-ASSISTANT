@@ -38,7 +38,8 @@ To run this program you will require a bunch of API keys. Register your API key 
 
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Wolframalpha](https://www.wolframalpha.com/)
-- [Google Calendar API](https://developers.google.com/calendar/auth)
+- [Google Calendar API](https://developers.google.com/calendar/auth) Some features requires premium updates
+- Removed OpenAI KEY After update Free usage is limited.
   
 ## Installation
 
